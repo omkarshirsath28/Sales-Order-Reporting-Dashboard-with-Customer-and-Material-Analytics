@@ -1,8 +1,4 @@
-Here is a professional `README.md` for your GitHub project, using industry-standard SAP ABAP terminology and a dedicated section for your input selection-screen screenshots.
 
-I can provide the complete file content below. You can save it as `README.md` in your project repository.
-
-Writing
 
 # Sales Order Reporting Dashboard with Customer and Material Analytics
 
@@ -82,7 +78,8 @@ Add a screenshot of the actual SAP GUI selection screen below.
 
 _Figure 1: Selection screen for sales order, creation date, customer, and material criteria._
 
-> **Screenshot note:** Replace the image path with a screenshot captured from your SAP GUI. The image will display after you upload the corresponding file to the repository.
+<img width="1856" height="942" alt="image" src="https://github.com/user-attachments/assets/3c6a2163-fdec-47e1-b82d-d0d85d22a4d2" />
+
 
 ## 5\. Report Output — ALV Grid
 
@@ -108,7 +105,9 @@ The report displays consolidated sales order and customer/material information i
 
 ### ALV Output Screenshot
 
-\!SAP ALV Grid Output
+<img width="1861" height="947" alt="image" src="https://github.com/user-attachments/assets/b4e057d9-dba1-402f-ae54-430a70d8f158" />
+<img width="1863" height="946" alt="image" src="https://github.com/user-attachments/assets/0e551846-5d5e-4d3b-854f-d19f5a00de8d" />
+
 
 _Figure 2: Consolidated sales order report with customer details and material-level information._
 
